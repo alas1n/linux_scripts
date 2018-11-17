@@ -1,0 +1,7 @@
+Fdupes: duplicate file finder and remover
+cmatrix: cool matrix terminal screensaver
+cums: terminal music player
+download Directory:  wget -c --recursive --no-parent
+
+for file in *.png; do convert $file -rotate 90 rotated-$file; done
+
